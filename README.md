@@ -3,3 +3,4 @@ update 2- added os and time libraries and added 1 new word in the thanks preset 
 update 3- added math library for square root feature
 update 4- added an option to exit chat
 update 5- added a confirmation to exit to prevent accidents
+update 6- added a bye message to make it more human like
